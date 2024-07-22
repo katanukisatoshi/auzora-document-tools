@@ -1,2 +1,2 @@
-# auzora-document-tools
+# truedoc
 Simple tool to process document
